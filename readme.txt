@@ -1,4 +1,4 @@
-Nick Marchionda - API specification and startup for Project 3
+Nick Marchionda - API specification and startup
 
 Before starting:
 	-Run startup.sql on your database, this sets up all the tables and relationships but doesn't insert any data
